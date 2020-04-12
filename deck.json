@@ -1,0 +1,335 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "6af3aa1e-7ce3-11ea-9351-d2001e897120",
+    "deck_config_uuid": "3394c762-7ce1-11ea-9351-d2001e897120",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": false,
+            "crowdanki_uuid": "3394c762-7ce1-11ea-9351-d2001e897120",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0
+            },
+            "maxTaken": 30,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    5
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    3
+                ],
+                "order": 1,
+                "perDay": 10,
+                "separate": true
+            },
+            "replayq": false,
+            "rev": {
+                "bury": true,
+                "ease4": 1.440000057220459,
+                "fuzz": 0.05,
+                "ivlFct": 0.550000011920929,
+                "maxIvl": 90,
+                "minSpace": 1,
+                "perDay": 20
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "Please see the <a href='https://ankiweb.net/shared/info/1521982651'>shared deck page</a> for more info.",
+    "dyn": 0,
+    "extendNew": 5,
+    "extendRev": 50,
+    "media_files": [
+        "04BAE037-2E33-4C10-A306-164B4A4985BF.jpg"
+    ],
+    "name": "7 Habits",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "6af41ab2-7ce3-11ea-9351-d2001e897120",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\usepackage[utf8]{inputenc}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-5b4e1",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Habit 1",
+                "Be Proactive: Principles of Personal Vision"
+            ],
+            "flags": 0,
+            "guid": "B.68axj5xk",
+            "newlyAdded": false,
+            "note_model_uuid": "6af41ab2-7ce3-11ea-9351-d2001e897120",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Respect&nbsp;",
+                "Habit 4"
+            ],
+            "flags": 0,
+            "guid": "IHsV%w./~X",
+            "newlyAdded": false,
+            "note_model_uuid": "6af41ab2-7ce3-11ea-9351-d2001e897120",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Choice",
+                "Habit 2"
+            ],
+            "flags": 0,
+            "guid": "N>dL7*Zb|E",
+            "newlyAdded": false,
+            "note_model_uuid": "6af41ab2-7ce3-11ea-9351-d2001e897120",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Creation&nbsp;",
+                "Habit 6"
+            ],
+            "flags": 0,
+            "guid": "P}M1qNXSZ[",
+            "newlyAdded": false,
+            "note_model_uuid": "6af41ab2-7ce3-11ea-9351-d2001e897120",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Habit 6",
+                "Synergize: Principles of Creative Cooperation&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "Q,Wa2H^bZD",
+            "newlyAdded": false,
+            "note_model_uuid": "6af41ab2-7ce3-11ea-9351-d2001e897120",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Habit 2",
+                "Begin With the End in Mind: Principles of Personal Leadership"
+            ],
+            "flags": 0,
+            "guid": "f&NY`o[N+=",
+            "newlyAdded": false,
+            "note_model_uuid": "6af41ab2-7ce3-11ea-9351-d2001e897120",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Habit 5",
+                "Seek First to Understand, Then to Be Understood: Principles of Empathic Communication&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "fS^v3${Z68",
+            "newlyAdded": false,
+            "note_model_uuid": "6af41ab2-7ce3-11ea-9351-d2001e897120",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Effectiveness&nbsp;",
+                "P/PC Balance<div><br></div><div>Production/Production Capability&nbsp;</div><div><br></div><div>Golden Egg/Goose</div>"
+            ],
+            "flags": 0,
+            "guid": "m-Mprm~LSn",
+            "newlyAdded": false,
+            "note_model_uuid": "6af41ab2-7ce3-11ea-9351-d2001e897120",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Rest&nbsp;",
+                "Habit 7"
+            ],
+            "flags": 0,
+            "guid": "ml{>DPt%GS",
+            "newlyAdded": false,
+            "note_model_uuid": "6af41ab2-7ce3-11ea-9351-d2001e897120",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Habit 4",
+                "Think Win/Win: Principles of Interpersonal Leadership&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "nTxQg3fUS,",
+            "newlyAdded": false,
+            "note_model_uuid": "6af41ab2-7ce3-11ea-9351-d2001e897120",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Habit 3",
+                "Put First Things First: Principles of Personal Management&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "nz(+@h~k],",
+            "newlyAdded": false,
+            "note_model_uuid": "6af41ab2-7ce3-11ea-9351-d2001e897120",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Habits Defined",
+                "Intersection of knowledge, skill, and desire"
+            ],
+            "flags": 0,
+            "guid": "oO0D-8ord&",
+            "newlyAdded": false,
+            "note_model_uuid": "6af41ab2-7ce3-11ea-9351-d2001e897120",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maturity Continuum&nbsp;",
+                "Dependence to independence to interdependence&nbsp;<img src=\"04BAE037-2E33-4C10-A306-164B4A4985BF.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "omMBBd1#K+",
+            "newlyAdded": false,
+            "note_model_uuid": "6af41ab2-7ce3-11ea-9351-d2001e897120",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Understanding",
+                "Habit 5"
+            ],
+            "flags": 0,
+            "guid": "sNMj&1qdcp",
+            "newlyAdded": false,
+            "note_model_uuid": "6af41ab2-7ce3-11ea-9351-d2001e897120",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Freedom to Choose",
+                "Habit 1"
+            ],
+            "flags": 0,
+            "guid": "t<|/XuwAF,",
+            "newlyAdded": false,
+            "note_model_uuid": "6af41ab2-7ce3-11ea-9351-d2001e897120",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Action",
+                "Habit 3"
+            ],
+            "flags": 0,
+            "guid": "w)#wR9qi/(",
+            "newlyAdded": false,
+            "note_model_uuid": "6af41ab2-7ce3-11ea-9351-d2001e897120",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Habit 7",
+                "Sharpen the Saw: Principles of Balanced Self-Renewal"
+            ],
+            "flags": 0,
+            "guid": "zyZk3!_zF^",
+            "newlyAdded": false,
+            "note_model_uuid": "6af41ab2-7ce3-11ea-9351-d2001e897120",
+            "tags": []
+        }
+    ]
+}
